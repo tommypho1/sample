@@ -3,6 +3,7 @@
   <groupId>com.dn.jenkins</groupId>
   <artifactId>sample</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <packaging>jar</packaging>
   <name>Add</name>
   <description>Add class</description>
   <dependencies>
